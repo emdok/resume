@@ -1,3 +1,41 @@
+
+h1 {
+  font-family: sans-serif;
+  font-size: 60px;
+  color: #512E5F;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #6C5B7B;
+}
+
+body {
+  padding: 40px;
+  margin: auto;
+  background-color: #85929E;
+}
+
 ul {
   list-style: none;
+
+}
+
+.important {
+  color: #0E6655;
+  font-style: italic;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.font {
+  font-family: monospace;
+  font-size: 14px;
+}
+
+th, td {
+  padding: 1px 50px 1px 50px;
 }
