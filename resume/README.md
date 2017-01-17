@@ -8,6 +8,9 @@
 
 Practice Resume website for Epicodus using Span and Div tags, along with classes.
 
+You can view the site at this URL:
+https://emdok.github.io/resume/resume/
+
 ## Technologies Used
 
 HTML
